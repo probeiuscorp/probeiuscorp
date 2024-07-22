@@ -4,5 +4,5 @@ Cool stuff
  - StarCraft II
  - [playlistjs](https://playlistjs.vercel.app) ([github](https://github.com/probeiuscorp/playlistjs))
  - [git-clone-client](https://github.com/probeiuscorp/git-clone-client)
- - [React](https://react.dev)
- - [Jotai](https://jotai.org)
+ - [React](https://github.com/facebook/react)
+ - [Jotai](https://github.com/pmndrs/jotai)
