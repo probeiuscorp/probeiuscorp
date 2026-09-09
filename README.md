@@ -1,3 +1,6 @@
+> [!WARNING]
+> I've moved off of GitHub, I'm at https://gitea.com/probeiuscorp (for now, at least)
+
 <img src="https://github.com/probeiuscorp/probeiuscorp/assets/70288813/6f39522a-8b3f-4c0a-8890-78663b83677c" alt="Terran" width="180"/>
 
 Cool stuff
